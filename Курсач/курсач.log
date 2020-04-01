@@ -1,0 +1,914 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2020.3.24)  1 APR 2020 22:29
+entering extended mode
+**./курсач.tex
+(курсач.tex
+LaTeX2e <2018-12-01>
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/base\size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/babel\babel.sty"
+Package: babel 2019/04/03 3.29 The Babel package
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/babel\switch.def"
+File: switch.def 2019/04/03 3.29 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/babel-russian\russianb.ldf"
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/babel\babel.def"
+File: babel.def 2019/04/03 3.29 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/babel\txtbabel.def")
+\bbl@dirlevel=\count89
+)
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 74.
+
+
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/cyrillic\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/base\t2aenc.dfu"
+File: t2aenc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+))
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/base\akktex.sty"
+Package: akktex 2005/05/05 1.0.1 by Igor Akkerman (c) 2005 Package loading all 
+AkkTeX packages.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/base\akkconditional.sty"
+Package: akkconditional 2005/04/30 1.1.1 by Igor Akkerman (c) 2004, 2005 Packag
+e providing utilities for handling conditionals.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count90
+\calc@Bcount=\count91
+\calc@Adimen=\dimen104
+\calc@Bdimen=\dimen105
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count92
+\calc@Cskip=\skip45
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
+\LTleft=\skip46
+\LTright=\skip47
+\LTpre=\skip48
+\LTpost=\skip49
+\LTchunksize=\count93
+\LTcapwidth=\dimen106
+\LT@head=\box27
+\LT@firsthead=\box28
+\LT@foot=\box29
+\LT@lastfoot=\box30
+\LT@cols=\count94
+\LT@rows=\count95
+\c@LT@tables=\count96
+\c@LT@chunks=\count97
+\LT@p@ftn=\toks16
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/tools\theorem.sty"
+Package: theorem 2014/10/28 v2.2c Theorem extension package (FMi)
+\theorem@style=\toks17
+\theorem@bodyfont=\toks18
+\theorempreskipamount=\skip50
+\theorempostskipamount=\skip51
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/tools\thp.sty"
+File: thp.sty 2014/10/28 v2.2c Theorem extension package (FMi)
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count98
+\float@exts=\toks19
+\float@box=\box31
+\@float@everytoks=\toks20
+\@floatcapt=\box32
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks21
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks22
+\verbatim@line=\toks23
+\verbatim@in@stream=\read1
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/base\akkdoc.sty"
+Package: akkdoc 2005/04/30 1.0.0 by Igor Akkerman (c) 2000, 2001, 2002, 2003, 2
+004, 2005 Package providing commands for documents.
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/base\akkstring.sty"
+Package: akkstring 2005/04/30 1.2.2 by Igor Akkerman (c) 2004, 2005 Package pro
+viding string operation utilities.
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/base\akknum.sty"
+Package: akknum 2005/05/01 1.0.0 by Igor Akkerman (c) 2005 Package providing nu
+meric utilities.
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/base\akkcounterlabelpattern.sty"
+Package: akkcounterlabelpattern 2006/10/25 1.0.2 by Igor Akkerman (c)2004-2006 
+Package providing easy counter label creation using a specified pattern.
+\akk@counterlabel=\toks24
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/layout\akkparskip.sty"
+Package: akkparskip 2005/04/30 by Igor Akkerman (c) 2004, 2005 v1.3.2 Package p
+roviding a non empty paragraph skip with list and section environment correctio
+ns.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/layout\akksection.sty"
+Package: akksection 2005/04/30 by Igor Akkerman (c) 2004, 2005 v1.0.2 Package p
+roviding an alternative section definition command.
+)
+\akk@orig@parskip=\skip52
+\akk@orig@parindent=\skip53
+\akk@orig@labelsep=\skip54
+\akk@orig@rightmargin=\skip55
+\akk@orig@listparindent=\skip56
+\akk@orig@itemindent=\skip57
+\akk@orig@topsep=\skip58
+\akk@orig@partopsep=\skip59
+\akk@orig@parsep=\skip60
+\akk@orig@itemsep=\skip61
+\akk@default@parskip=\skip62
+\akk@default@parindent=\skip63
+\akk@default@labelsep=\skip64
+\akk@default@rightmargin=\skip65
+\akk@default@listparindent=\skip66
+\akk@default@itemindent=\skip67
+\akk@default@topsep=\skip68
+\akk@default@partopsep=\skip69
+\akk@default@parsep=\skip70
+\akk@default@itemsep=\skip71
+\akk@@beforesectionskip=\skip72
+\akk@@beforesubsectionskip=\skip73
+\akk@@beforesubsubsectionskip=\skip74
+\akk@@beforeparagraphskip=\skip75
+\akk@@aftersectionskip=\skip76
+\akk@@aftersubsectionskip=\skip77
+\akk@@aftersubsubsectionskip=\skip78
+\akk@@afterparagraphskip=\skip79
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/math\akkmath.sty"
+Package: akkmath 2005/05/05 1.2.0 by Igor Akkerman (c) 2000, 2001, 2002, 2003, 
+2004, 2005 Package importing all AkkTeX and AMS math packages
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsmath\amsmath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip80
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen107
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen108
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count99
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count100
+\leftroot@=\count101
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count102
+\DOTSCASE@=\count103
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box33
+\strutbox@=\box34
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count104
+\c@MaxMatrixCols=\count105
+\dotsspace@=\muskip10
+\c@parentequation=\count106
+\dspbrk@lvl=\count107
+\tag@help=\toks26
+\row@=\count108
+\column@=\count109
+\maxfields@=\count110
+\andhelp@=\toks27
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks28
+\multlinegap=\skip81
+\multlinetaggap=\skip82
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/math\akkmathbasic.sty"
+Package: akkmathbasic 2005/04/30 3.0.0 by Igor Akkerman (c) 2000, 2001, 2002, 2
+003, 2004, 2005 Package providing basic utilities for typesetting mathematics
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/tools\array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen116
+\ar@mcellbox=\box35
+\extrarowheight=\dimen117
+\NC@list=\toks30
+\extratabsurround=\skip83
+\backup@length=\skip84
+\ar@cellbox=\box36
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/math\akkmathset.sty"
+Package: akkmathset 2005/04/30 1.0.0 by Igor Akkerman (c) 2000, 2001, 2002, 200
+3, 2004 Package providing utilities for typesetting mathematical sets
+
+
+! LaTeX Error: Command \C already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 ...and   \C[1]               {{\setcomp{#1}}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/math\akkmathtext.sty"
+Package: akkmathtext 2005/05/01 1.0.0 by Igor Akkerman (c) 2000, 2001, 2002, 20
+03, 2004, 2005 Package providing utilities for typesetting text elements within
+ mathematic formulas
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/math\akkmathrel.sty"
+Package: akkmathrel 2006/10/22 2.0.1 by Igor Akkerman (c) 2000, 2001, 2002, 200
+3, 2004, 2005, 2006 Package providing utilities for typesetting mathematical re
+lations
+\akk@annwidth=\skip85
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/math\akkmathnum.sty"
+Package: akkmathnum 2005/04/30 1.1.0 by Igor Akkerman (c) 2000, 2001, 2002, 200
+3, 2004, 2005 Package providing utilities for typesetting numeric elements
+\c@refmtxrow=\count111
+\c@lesrow=\count112
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/math\akkmathfun.sty"
+Package: akkmathfun 2005/04/28 1.0.1 by Igor Akkerman (c) 2000, 2001, 2002, 200
+3, 2004, 2005 Package providing utilities for typesetting mathematical function
+s
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/math\akkmathproof.sty"
+Package: akkmathproof 2005/04/30 1.2.0 by Igor Akkerman (c) 2000, 2001, 2002, 2
+003, 2004, 2005 Package providing utilities for typesetting mathematical proofs
+
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/math\akkmathdisc.sty"
+Package: akkmathdisc 2005/04/30 1.0.0 by Igor Akkerman (c) 2000, 2001, 2002, 20
+03, 2004, 2005 Package providing utilities for typesetting discrete mathematics
+ like graphs
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/math\akkmathpaper.sty"
+Package: akkmathpaper 2005/04/30 1.1.0 by Igor Akkerman (c) 2000, 2001, 2002, 2
+003, 2004, 2005 Package providing utilities for typesetting mathematical papers
+ as lecture scripts
+\c@axiom=\count113
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/akktex/cs\akkcs.sty"
+Package: akkcs 2005/04/30 1.0.0 by Igor Akkerman (c) 2000, 2001, 2002, 2003, 20
+04, 2005 Package providing utilities for typesetting computer science elements
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks31
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count114
+\Gm@cntv=\count115
+\c@Gm@tempcnt=\count116
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks32
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/geometry\geometry.cfg")) (курсач.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+\openout1 = `курсач.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count117
+\scratchdimen=\dimen126
+\scratchbox=\box37
+\nofMPsegments=\count118
+\nofMParguments=\count119
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count120
+\MPscratchDim=\dimen127
+\MPnumerator=\count121
+\makeMPintoPDFobject=\count122
+\everyMPtoPDFconversion=\toks34
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 514.71037pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=514.71037pt
+* \textheight=709.61174pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-29.59087pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=12.0pt
+* \footskip=28.45274pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 33.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 33.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 33.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [1
+
+{C:/Users/Николай Горошко/AppData/Local/MiKTeX/2.9/pdftex/config/
+pdftex.map}] [2] [3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 85--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--93
+
+ []
+
+[5]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 113.
+
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 113.
+
+Overfull \hbox (19.92778pt too wide) in paragraph at lines 134--136
+\T2A/cmr/m/n/12 ����� ���-���-�� ��-��� ���-�� $\OML/cmm/m/it/12 []; i \OT1/cm
+r/m/n/12 = 1\OML/cmm/m/it/12 ; :::; m\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 , ��� ��
+��� ���-���-��� �����-��-��� $\OML/cmm/m/it/12 u[]\OT1/cmr/m/n/12 (\OML/cmm/m/i
+t/12 t\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; t [] T$\T2A/cmr/m/n/12 ,����������
+ []
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.140 ...0(t),\psi^0(t), u(t)), t \in \[t,t^*\[, $
+                                                   где максимум �...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.140 ...0(t),\psi^0(t), u(t)), t \in \[t,t^*\[, $
+                                                   где максимум �...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.150 ...^0 (t),\psi^0 (t),u(t)),t\in \[0,t^* \[,$
+                                                    где $\psi^0 (t),t\in ...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.150 ...^0 (t),\psi^0 (t),u(t)),t\in \[0,t^* \[,$
+                                                    где $\psi^0 (t),t\in ...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (42.88156pt too wide) in paragraph at lines 148--152
+\T2A/cmr/bx/n/12 �������\T2A/cmr/m/n/12 : ��-��-����-��� �����-��-��� �����-��-
+��� $\OML/cmm/m/it/12 u[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )\O
+ML/cmm/m/it/12 ; t [] T$\T2A/cmr/m/n/12 � ��-��-�� $\OML/cmm/m/it/12 J[]\OT1/cm
+r/m/n/12 (\OML/cmm/m/it/12 u\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 '\OT1/cmr/m/n/
+12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t[]\OT1/cmr/m/n/12 )) +
+ [][] \OML/cmm/m/it/12 f[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 (\
+OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; u\OT1/cmr/m/n/12 (\OML/cmm
+/m/it/12 t\OT1/cmr/m/n/12 ))\OML/cmm/m/it/12 dt \OT1/cmr/m/n/12 +
+ []
+
+[6] [7] [8] (курсач.aux) ) 
+Here is how much of TeX's memory you used:
+ 5194 strings out of 492942
+ 73476 string characters out of 3115533
+ 155698 words of memory out of 3000000
+ 8919 multiletter control sequences out of 15000+200000
+ 15904 words of font info for 44 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,7n,31p,1007b,208s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Николай Горошко/AppData
+/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<C:/Users/
+Николай Горошко/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb><C:/Users/Николай Горошко/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Ни�
+�олай Горошко/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmmi8.pfb><C:/Users/Николай Горошко/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Никола
+й Горошко/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr6.pfb><C:/Users/Николай Горошко/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Николай Гор
+ошко/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><C:/Users/Николай Горошко/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Николай Горошк
+о/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
+C:/Users/Николай Горошко/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/cm-super/sfbx1200.pfb><C:/Users/Николай Горошко/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/User
+s/Николай Горошко/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/cm-super/sfbx1728.pfb><C:/Users/Николай Горошко/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Users/Ни�
+�олай Горошко/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/c
+m-super/sfrm1200.pfb><C:/Users/Николай Горошко/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1440.pfb><C:/Users/Никола
+й Горошко/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super
+/sfrm1728.pfb>
+Output written on курсач.pdf (8 pages, 209137 bytes).
+PDF statistics:
+ 94 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
