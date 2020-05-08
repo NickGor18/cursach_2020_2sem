@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2020.3.24)  8 MAY 2020 10:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2020.3.24)  8 MAY 2020 17:54
 entering extended mode
 **./CourseWorkSample.tex
 (CourseWorkSample.tex
@@ -1146,42 +1146,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--11
  []
 
 
-LaTeX Warning: Command \cyrd invalid in math mode on input line 12.
-
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 12.
-
-
-LaTeX Warning: Command \cyrya invalid in math mode on input line 12.
-
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 12.
-
-
-LaTeX Warning: Command \cyryu invalid in math mode on input line 12.
-
-
-LaTeX Warning: Command \cyrb invalid in math mode on input line 12.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 12.
-
-
-LaTeX Warning: Command \cyrg invalid in math mode on input line 12.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 12.
-
-Missing character: There is no д in font cmr12!
-Missing character: There is no л in font cmr12!
-Missing character: There is no я in font cmr12!
-Missing character: There is no л in font cmr12!
-Missing character: There is no ю in font cmr12!
-Missing character: There is no б in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no г in font cmr12!
-Missing character: There is no о in font cmr12!
-
 Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
@@ -1390,7 +1354,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--164
 
  []
 
-) (conclusions.tex
+[19]) (conclusions.tex
 
 ! LaTeX Error: Can be used only in preamble.
 
@@ -1404,7 +1368,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[19])
+[20] [21])
 Underfull \hbox (badness 4805) in paragraph at lines 6--63
 []\T2A/cmr/m/n/14.4 ? ???????? ?????? ??????????? ??????... . ??? ??????????? ?
 ?????
@@ -1430,17 +1394,17 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[20
+[22
 
-] [21
+] [23
 
-] [22]
+] [24]
 Underfull \hbox (badness 1163) in paragraph at lines 89--94
 []\T2A/cmr/m/n/14.4 Кириллова, Ф.М. Син-тез оп-ти-маль-ных си-стем -- оп-ти-мал
 ь-ное
  []
 
-[23]
+[25]
 Underfull \hbox (badness 7064) in paragraph at lines 161--163
 []\T2A/cmr/m/n/14.4 Karmarkar, N. A new polynomial-time algorithm for linear
  []
@@ -1451,7 +1415,7 @@ Underfull \hbox (badness 2343) in paragraph at lines 177--179
 l of
  []
 
-[24]) [25] (CourseWorkSample.aux)
+[26]) [27] (CourseWorkSample.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1463,7 +1427,7 @@ Here is how much of TeX's memory you used:
  18456 multiletter control sequences out of 15000+200000
  9488 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,5n,50p,1311b,247s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,5n,50p,1527b,247s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/РќРёРєРѕР»Р°Р№ Р“РѕСЂРѕС€РєРѕ/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/enc/dvips/cm-super/cm-super-t2a.enc}<C:/Users/РќРёРєРѕР»Р°Р№ Р“РѕСЂРѕС€РєРѕ/
 AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:
@@ -1485,9 +1449,9 @@ TeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Users/РќРёРєРѕР»Р°Р№ Р“РѕС
 ЂРѕС€РєРѕ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx172
 8.pfb><C:/Users/РќРёРєРѕР»Р°Р№ Р“РѕСЂРѕС€РєРѕ/AppData/Local/Programs/MiKTeX 2.9
 /fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on CourseWorkSample.pdf (25 pages, 250004 bytes).
+Output written on CourseWorkSample.pdf (27 pages, 256571 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
+ 145 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
