@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2020.3.24)  18 MAY 2020 14:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2020.3.24)  22 MAY 2020 06:19
 entering extended mode
 **./CourseWorkSample.tex
 (CourseWorkSample.tex
@@ -853,7 +853,15 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 latex/titlesec\titletoc.sty"
 Package: titletoc 2011/12/15 v1.6 TOC entries
 \ttl@leftsep=\dimen175
-)) (CourseWorkSample.aux
+))
+("C:\Users\РќРёРєРѕР»Р°Р№ Р“РѕСЂРѕС€РєРѕ\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/oberdiek\grffile.sty"
+Package: grffile 2017/06/30 v1.18 Extended file name support for graphics (HO)
+Package grffile Info: Option `multidot' is set to `true'.
+Package grffile Info: Option `extendedchars' is set to `false'.
+Package grffile Info: Option `space' is set to `true'.
+Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 494.
+) (CourseWorkSample.aux
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
 
 ("C:\Users\РќРёРєРѕР»Р°Р№ Р“РѕСЂРѕС€РєРѕ\AppData\Local\Programs\MiKTeX 2.9\tex/
@@ -866,20 +874,20 @@ LaTeX Warning: Label `MPC' multiply defined.
 )
 \openout1 = `CourseWorkSample.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
 ("C:\Users\РќРёРєРѕР»Р°Р№ Р“РѕСЂРѕС€РєРѕ\AppData\Local\Programs\MiKTeX 2.9\tex/
 context/base/mkii\supp-pdf.mkii"
@@ -931,7 +939,7 @@ context/base/mkii\supp-pdf.mkii"
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Overfull \hbox (28.45271pt too wide) in paragraph at lines 35--35
+Overfull \hbox (28.45271pt too wide) in paragraph at lines 39--39
 []| [] 
  []
 
@@ -939,22 +947,22 @@ Overfull \hbox (28.45271pt too wide) in paragraph at lines 35--35
 
 {C:/Users/РќРёРєРѕР»Р°Р№ Р“РѕСЂРѕС€РєРѕ/AppData/Local/MiKTeX/2.9/pdftex/config/
 pdftex.map}] (CourseWorkSample.toc
-Overfull \hbox (7.9181pt too wide) detected at line 5
+Overfull \hbox (7.9181pt too wide) detected at line 4
 \T2A/cmr/bx/n/14.4 1 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
 []|\T2A/cmr/bx/n/14.4 ГЛАВА | [] | ОС-НОВ-НЫЕ ПО-НЯ-ТИЯ И ОБ-ЗОР 
  []
 
 
-Overfull \hbox (7.9181pt too wide) detected at line 19
+Overfull \hbox (7.9181pt too wide) detected at line 18
 \T2A/cmr/bx/n/14.4 2 
  []
 
 
-Overfull \hbox (7.9181pt too wide) detected at line 24
+Overfull \hbox (7.9181pt too wide) detected at line 22
 \T2A/cmr/bx/n/14.4 3 
  []
 
@@ -962,303 +970,680 @@ Overfull \hbox (7.9181pt too wide) detected at line 24
 \tf@toc=\write4
 \openout4 = `CourseWorkSample.toc'.
 
- (referat.tex
+ (intro.tex [2
 
-! LaTeX Error: Can be used only in preamble.
+])
+Underfull \hbox (badness 1297) in paragraph at lines 4--57
+\T2A/cmr/m/n/14.4 но-ся-щее в ан-гло-языч-ной ли-те-ра-ту-ре на-зва-ние Model P
+redictive Control
+ []
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \usepackage
-               [cp1251]{inputenc}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
-[2
+Underfull \hbox (badness 10000) in paragraph at lines 4--57
 
-]) (intro.tex
+ []
 
-! LaTeX Error: Can be used only in preamble.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \usepackage
-               [cp1251]{inputenc}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+Underfull \hbox (badness 1755) in paragraph at lines 4--57
+\T2A/cmr/m/n/14.4 Классической об-ла-стью при-ме-не-ния MPC до недав-не-го вре-
+ме-ни бы-ли
+ []
 
-[3
 
-]) (chapter1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--57
 
-! LaTeX Error: Can be used only in preamble.
+ []
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \usepackage
-               [cp1251]{inputenc}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
-[4
+Underfull \hbox (badness 1009) in paragraph at lines 4--57
+\T2A/cmr/m/n/14.4 Цель кур-со-вой ра-бо-ты при-ме-нить идеи МРС для ре-ше-ния о
+д-ной нео-
+ []
+
+(chapter1.tex [3
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
 
-Underfull \hbox (badness 1859) in paragraph at lines 5--7
+Underfull \hbox (badness 1859) in paragraph at lines 4--6
 \T2A/cmr/m/n/14.4 Predictive Control") - это про-дви-ну-тый ме-тод управ-ле-ния
  про-цес-са-ми,
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 5--7
+Underfull \hbox (badness 1571) in paragraph at lines 4--6
 \T2A/cmr/m/n/14.4 ко-то-рый ис-поль-зу-ет-ся для со-от-вет-ству-ю-ще-го на-бо-р
 а огра-ни-че-ний. Оно
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 5--7
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 4--6
 \T2A/cmr/m/n/14.4 неза-ви-си-мые пе-ре-мен-ные, ко-то-рые мо-гут быть до-бав-ле
 -ны ре-гу-ля-то-ром
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--7
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 7.
 
 ("C:\Users\РќРёРєРѕР»Р°Р№ Р“РѕСЂРѕС€РєРѕ\AppData\Local\Programs\MiKTeX 2.9\tex/
 latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 8.
+LaTeX Font Info:    Try loading font information for U+msb on input line 7.
 
 ("C:\Users\РќРёРєРѕР»Р°Р№ Р“РѕСЂРѕС€РєРѕ\AppData\Local\Programs\MiKTeX 2.9\tex/
 latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [5
+)
+Underfull \hbox (badness 10000) in paragraph at lines 7--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--10
+
+ []
+
+[4
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 17.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 16.
 
 ("C:\Users\РќРёРєРѕР»Р°Р№ Р“РѕСЂРѕС€РєРѕ\AppData\Local\Programs\MiKTeX 2.9\tex/
 latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
- [6]
-Underfull \hbox (badness 10000) in paragraph at lines 43--46
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 16.
+ [5]
+Underfull \hbox (badness 10000) in paragraph at lines 42--45
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--50
+Underfull \hbox (badness 10000) in paragraph at lines 42--45
 
  []
 
-[7]
-Underfull \hbox (badness 1552) in paragraph at lines 75--76
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--49
+
+ []
+
+[6]
+Underfull \hbox (badness 1552) in paragraph at lines 74--75
 [] []\T2A/cmr/bx/n/14.4 Прин-цип мак-си-му-ма Понт-ря-ги-на[] \T2A/cmr/m/n/14.4
  Рас-смот-рим про-стей-шую за-да-чу
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--89
+Underfull \hbox (badness 10000) in paragraph at lines 80--88
 
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 92--94
+
+Underfull \hbox (badness 2261) in paragraph at lines 80--88
+| \T2A/cmr/m/n/14.4 От-ме-тим, что в за-да-че (1.3)(1.5) ле-вый ко-нец тра-ек-
+то-рии $\OML/cmm/m/it/14.4 x\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 t[]\OT1/cmr/m
+/n/14.4 )$
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 80--88
+\OML/cmm/m/it/14.4 x\OT1/cmr/m/n/14.4 (\OMS/cmsy/m/n/14.4 \OT1/cmr/m/n/14.4 )$
+ \T2A/cmr/m/n/14.4 от-сут-ству-ют. Тре-бу-ет-ся ми-ни-ми-зи-ро-вать функ-цию те
+р-ми-наль-но-го
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--88
 
  []
 
-[9] [10]
-Underfull \hbox (badness 1796) in paragraph at lines 139--139
+
+Underfull \hbox (badness 4279) in paragraph at lines 80--88
+| \T2A/cmr/m/n/14.4 Прин-ци-пом мак-си-му-ма на-зы-ва-ет-ся ос-нов-ное необ-хо-
+ди-мое усло-вие
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--88
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 91--93
+
+ []
+
+[8] [9]
+Underfull \hbox (badness 1796) in paragraph at lines 138--138
  |[]\T2A/cmr/bx/n/17.28 Численные и про-грамм-ные ме-то-ды ре-ше-ния
  []
 
-[11]
-Underfull \hbox (badness 7308) in paragraph at lines 176--177
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--155
+
+ []
+
+[10]
+Underfull \hbox (badness 7308) in paragraph at lines 175--176
 []\T2A/cmr/m/n/14.4 Подавать на вход объ-ек-та управ-ле-ния по-сто-ян-ное управ
 -ле-ние
  []
 
-[12]) (chapter2.tex
-
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \usepackage
-               [cp1251]{inputenc}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[13]
+[11]) (chapter2.tex [12]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--12
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--21
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
 
  []
 
-[14
+[13
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--40
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
 
  []
 
 
-Underfull \hbox (badness 3668) in paragraph at lines 43--44
+Underfull \hbox (badness 1571) in paragraph at lines 34--38
+\T2A/cmr/m/n/14.4 В за-мкну-той эко-но-ми-ке про-из-ве-ден-ный про-дукт ли-бо и
+н-ве-сти-ру-ет-ся в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+
+ []
+
+
+Underfull \hbox (badness 3668) in paragraph at lines 41--42
 \T2A/cmr/m/n/14.4 произведенного про-дук-та ин-ве-сти-ру-ет-ся в ос-нов-ные про
 -из-вод-ствен-ные
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
-[15] [16]
 
-LaTeX Warning: Command \textemdash invalid in math mode on input line 126.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
 
  []
 
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 170--172
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
 
  []
 
-[18] [19]) (chapter3.tex
 
-! LaTeX Error: Can be used only in preamble.
+Underfull \hbox (badness 8075) in paragraph at lines 50--52
+\T2A/cmr/m/n/14.4 Пусть тру-до-вые ре-сур-сы удо-вле-тво-ря-ют усло-вию экс-по-
+нен-ци-аль-но-го
+ []
+
+[14]
+
+! LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 \usepackage
-               [cp1251]{inputenc}
+l.73 П
+      ри исследовании неоклассической задачи оптимального экономического рос...
+
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[20]
+[15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--166
+
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 167--169
+[]\T2A/cmr/m/n/14.4 Магистралями мы на-зы-ва-ем рав-но-вес-ное по-ло-же-ние эко
+-но-ми-че-ской
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
+
+ []
+
+<dugi.png, id=68, 369.63094pt x 331.99031pt>
+File: dugi.png Graphic file (type png)
+<use dugi.png>
+Package pdftex.def Info: dugi.png  used on input line 170.
+(pdftex.def)             Requested size: 284.52756pt x 255.55226pt.
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
+
+ []
+
+) (chapter3.tex [18 <./dugi.png>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
-[21
+[19
 
 ]
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 52.
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 51.
 
 
 ("C:\Users\РќРёРєРѕР»Р°Р№ Р“РѕСЂРѕС€РєРѕ\AppData\Local\Programs\MiKTeX 2.9\tex/
 latex/cyrillic\t2acmtt.fd"
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [22]) (conclusions.tex
+) [20] [21]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.104 	\left
+            \includegraphics[scale=0.5]{figure1.1}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-! LaTeX Error: Can be used only in preamble.
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \unhbox 
+l.104 	\left\includegraphics
+                            [scale=0.5]{figure1.1}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \usepackage
-               [cp1251]{inputenc}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+<figure1.1.jpg, id=86, 421.575pt x 316.18124pt>
+File: figure1.1.jpg Graphic file (type jpg)
+<use figure1.1.jpg>
+Package pdftex.def Info: figure1.1.jpg  used on input line 104.
+(pdftex.def)             Requested size: 210.78697pt x 158.09023pt.
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \unhbox 
+l.105 	\left\includegraphics
+                            [scale=0.4]{figure1.2}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
 
-[23]) (bibliography.tex
+<figure1.2.jpg, id=87, 562.1pt x 421.575pt>
+File: figure1.2.jpg Graphic file (type jpg)
+<use figure1.2.jpg>
+Package pdftex.def Info: figure1.2.jpg  used on input line 105.
+(pdftex.def)             Requested size: 224.83601pt x 168.627pt.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.106 	\caption{Траектории x и u при T = 10}
+                                            
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-! LaTeX Error: Can be used only in preamble.
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.106 	\caption{Траектории x и u при T = 10}
+                                            
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \usepackage
-               [cp1251]{inputenc}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.106 	\caption{Траектории x и u при T = 10}
+                                            
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.109 	\left
+            \includegraphics[scale=0.5]{figure2.1}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \unhbox 
+l.109 	\left\includegraphics
+                            [scale=0.5]{figure2.1}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+<figure2.1.jpg, id=88, 421.575pt x 316.18124pt>
+File: figure2.1.jpg Graphic file (type jpg)
+<use figure2.1.jpg>
+Package pdftex.def Info: figure2.1.jpg  used on input line 109.
+(pdftex.def)             Requested size: 210.78697pt x 158.09023pt.
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \unhbox 
+l.110 	\left\includegraphics
+                            [scale=0.4]{figure2.2}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+<figure2.2.jpg, id=89, 562.1pt x 421.575pt>
+File: figure2.2.jpg Graphic file (type jpg)
+<use figure2.2.jpg>
+Package pdftex.def Info: figure2.2.jpg  used on input line 110.
+(pdftex.def)             Requested size: 224.83601pt x 168.627pt.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.111 	\caption{Траектории x и u при T = 30}
+                                            
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.111 	\caption{Траектории x и u при T = 30}
+                                            
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.111 	\caption{Траектории x и u при T = 30}
+                                            
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.114 	\left
+            \includegraphics[scale=0.5]{figure3.1}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \unhbox 
+l.114 	\left\includegraphics
+                            [scale=0.5]{figure3.1}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+<figure3.1.jpg, id=90, 421.575pt x 316.18124pt>
+File: figure3.1.jpg Graphic file (type jpg)
+<use figure3.1.jpg>
+Package pdftex.def Info: figure3.1.jpg  used on input line 114.
+(pdftex.def)             Requested size: 210.78697pt x 158.09023pt.
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \unhbox 
+l.115 	\left\includegraphics
+                            [scale=0.4]{figure2.2}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+File: figure2.2.jpg Graphic file (type jpg)
+<use figure2.2.jpg>
+Package pdftex.def Info: figure2.2.jpg  used on input line 115.
+(pdftex.def)             Requested size: 224.83601pt x 168.627pt.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.116 	\caption{Траектории x и u при T = 50}
+                                            
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.116 	\caption{Траектории x и u при T = 50}
+                                            
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.116 	\caption{Траектории x и u при T = 50}
+                                            
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.119 	\left
+            \includegraphics[scale=0.5]{figure4.1}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \unhbox 
+l.119 	\left\includegraphics
+                            [scale=0.5]{figure4.1}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+<figure4.1.jpg, id=91, 421.575pt x 316.18124pt>
+File: figure4.1.jpg Graphic file (type jpg)
+<use figure4.1.jpg>
+Package pdftex.def Info: figure4.1.jpg  used on input line 119.
+(pdftex.def)             Requested size: 210.78697pt x 158.09023pt.
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \unhbox 
+l.120 	\left\includegraphics
+                            [scale=0.4]{figure2.2}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+File: figure2.2.jpg Graphic file (type jpg)
+<use figure2.2.jpg>
+Package pdftex.def Info: figure2.2.jpg  used on input line 120.
+(pdftex.def)             Requested size: 224.83601pt x 168.627pt.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.121 	\caption{Траектории x при T = 70}
+                                        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.121 	\caption{Траектории x при T = 70}
+                                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.121 	\caption{Траектории x при T = 70}
+                                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 102--63
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22 <./figure1.1.jpg> <./figure1.2.jpg> <./figure2.1.jpg> <./figure2.2.jpg>]
+(conclusions.tex [23 <./figure3.1.jpg> <./figure4.1.jpg>]) (bibliography.tex
 [24
 
-] [25
-
 ]
-Underfull \hbox (badness 1163) in paragraph at lines 74--79
-[]\T2A/cmr/m/n/14.4 Кириллова, Ф.М. Син-тез оп-ти-маль-ных си-стем -- оп-ти-мал
-ь-ное
- []
-
-[26] [27]
-Underfull \hbox (badness 7064) in paragraph at lines 146--148
-[]\T2A/cmr/m/n/14.4 Karmarkar, N. A new polynomial-time algorithm for linear
+Underfull \hbox (badness 1221) in paragraph at lines 12--13
+[]\T2A/cmr/m/n/14.4 Mayne, D; Rawlings; Rao; Scokaert (2000). "Constrained mode
+l
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 162--164
-[]\T2A/cmr/m/n/14.4 Magni, L. Stabilizing decentralized model predictive contro
-l of
+Underfull \hbox (badness 2726) in paragraph at lines 13--14
+[]\T2A/cmr/m/n/14.4 Vichik, Sergey; Borrelli, Francesco (2014). "Solving linear
+ and
  []
 
-[28]) [29] (CourseWorkSample.aux)
+
+Underfull \hbox (badness 1215) in paragraph at lines 13--14
+\T2A/cmr/m/n/14.4 quadratic programs with an analog circuit". Computers and Che
+mical
+ []
+
+) [25
+
+] (CourseWorkSample.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 14907 strings out of 492942
- 293555 string characters out of 3115533
- 338147 words of memory out of 3000000
- 18465 multiletter control sequences out of 15000+200000
+ 14949 strings out of 492942
+ 294800 string characters out of 3115533
+ 339392 words of memory out of 3000000
+ 18507 multiletter control sequences out of 15000+200000
  9798 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,5n,50p,1527b,251s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,11n,50p,1527b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/РќРёРєРѕР»Р°Р№ Р“РѕСЂРѕС€РєРѕ/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/enc/dvips/cm-super/cm-super-t2a.enc}<C:/Users/РќРёРєРѕР»Р°Р№ Р“РѕСЂРѕС€РєРѕ/
 AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:
@@ -1281,9 +1666,9 @@ TeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Users/РќРёРєРѕР»Р°Р№ Р“РѕС
 8.pfb><C:/Users/РќРёРєРѕР»Р°Р№ Р“РѕСЂРѕС€РєРѕ/AppData/Local/Programs/MiKTeX 2.9
 /fonts/type1/public/cm-super/sfrm1440.pfb><C:/Users/РќРёРєРѕР»Р°Р№ Р“РѕСЂРѕС€Рє
 Рѕ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on CourseWorkSample.pdf (29 pages, 296557 bytes).
+Output written on CourseWorkSample.pdf (25 pages, 517925 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
+ 150 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
